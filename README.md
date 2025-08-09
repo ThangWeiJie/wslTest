@@ -1,2 +1,0 @@
-# wslTest
-Hello everyone!
